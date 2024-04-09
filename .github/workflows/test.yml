@@ -16,4 +16,4 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3heckout@v3
+      uses: actions/checkout@v3
